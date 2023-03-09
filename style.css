@@ -1,0 +1,25 @@
+body {
+    background: #008888;
+    display : grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+
+.card {
+    background: #c1d6d8;
+    border-radius: 4px;
+    height: 85vh;
+    width: 85vw;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) rgba(0, 0, 0, 0.23);
+    text-align: center;
+}
+
+img.birthday{
+    max-height: 40vh;
+}
+
+img.gif{
+    max-height: 10vh;
+}
